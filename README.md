@@ -1,8 +1,5 @@
 ## Hi there 👋
-
-<!--
-**sarahany6/sarahany6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align="center"> <!-- Typing animation --> <a href="https://github.com/YOUR-USERNAME"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sue+%F0%9F%91%8B;CS+Student+%7C+Data+%26+ML+Enthusiast;Building+AI-powered+frontend+projects;Aiming+for+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" /> </a> </div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
