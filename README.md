@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div align="center"> <!-- Typing animation --> <a href="https://github.com/YOUR-USERNAME"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sara+%F0%9F%91%8B;CS+Student+%7C+Data+Analytics+%26+ML+Enthusiast;Building+frontend+projects" alt="Typing SVG" /> </a> </div>
+<div align="center"> <!-- Typing animation --> <a href="https://github.com/YOUR-USERNAME"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sara+%F0%9F%91%8B;CS+Student+%7C+Data+%26+ML+Enthusiast;Building+frontend+projects" alt="Typing SVG" /> </a> </div>
 
 ### About Me
 <div>
@@ -89,8 +89,8 @@
  
 <div>
  <ul>
-  <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-hany-9ba849320</li>
-  <li>[Email(mailto:sara6hany@gmail.com)</li>
+  <li>[LinkedIn]:(https://linkedin.com/in/sara-hany-9ba849320)</li>
+  <li>[Email](mailto:sara6hany@gmail.com)</li>
  </ul>
 </div> 
 
