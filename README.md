@@ -80,13 +80,9 @@
 </div>
 
 ## 📫 Connect With Me
+ -[LinkedIn](https://linkedin.com/in/sara-hany-9ba849320)
+ -[Email](mailto:sara6hany@gmail.com)
  
-<div>
- <ul>
-  <li>**LinkedIn**:(https://linkedin.com/in/sara-hany-9ba849320)</li>
-  <li>**Email**:(mailto:sara6hany@gmail.com)</li>
- </ul>
-</div> 
 
 
 
