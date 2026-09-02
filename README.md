@@ -11,8 +11,6 @@
  </ul>
 </div>
 
-
-
 ### 💼 What I Do
 <div>
  <ul>
@@ -59,8 +57,8 @@
 ### 🔭 Current Projects
 <div>
  <ul>
-  <li>[Students' Scores Analysis](https://github.com/sarahany6/Student_scores_performance)</li>
-  <li>[My first Portfolio](https://github.com/sarahany6/final-project)</li>
+  <li>Students' Scores Analysis(https://github.com/sarahany6/Student_scores_performance)</li>
+  <li>My first Portfolio(https://github.com/sarahany6/final-project)</li>
   <li>Sales & Customers Dashboards </li>
  </ul>
 </div>
@@ -89,8 +87,8 @@
  
 <div>
  <ul>
-  <li>[LinkedIn]:(https://linkedin.com/in/sara-hany-9ba849320)</li>
-  <li>[Email](mailto:sara6hany@gmail.com)</li>
+  <li>LinkedIn:(https://linkedin.com/in/sara-hany-9ba849320)</li>
+  <li>Email:(mailto:sara6hany@gmail.com)</li>
  </ul>
 </div> 
 
