@@ -1,7 +1,6 @@
-## Hi there 👋
 <div align="center"> <!-- Typing animation --> <a href="https://github.com/YOUR-USERNAME"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sara+%F0%9F%91%8B;CS+Student+%7C+Data+%26+ML+Enthusiast;Building+frontend+projects" alt="Typing SVG" /> </a> </div>
 
-### About Me
+## About Me
 <div>
  <ul>
   <li>🎓 Third-year Computer Science student
@@ -11,7 +10,7 @@
  </ul>
 </div>
 
-### 💼 What I Do
+## 💼 What I Do
 <div>
  <ul>
   <li>🔄 Transform raw data into useful insights
@@ -29,7 +28,7 @@
  </ul>
 </div>
 
-### 🧰 My Services
+## 🧰 My Services
 
 ## Data & Analytics
 <div>
@@ -54,16 +53,13 @@
  </ul>
 </div>
 
-### 🔭 Current Projects
-<div>
- <ul>
-  <li>Students' Scores Analysis(https://github.com/sarahany6/Student_scores_performance)</li>
-  <li>My first Portfolio(https://github.com/sarahany6/final-project)</li>
-  <li>Sales & Customers Dashboards </li>
- </ul>
-</div>
+## 🔭 Current Projects
+- [Students' Scores Analysis](https://github.com/sarahany6/Student_scores_performance)</li>
+- [My first Portfolio](https://github.com/sarahany6/final-project)
+-Sales & Customers Dashboards
+ 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
  <div>
  <ul>
   <li>Python</li>
@@ -74,7 +70,7 @@
  </ul>
 </div>
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 <div>
  <ul>
   <li>Advanced SQL </li>
@@ -83,12 +79,12 @@
  </ul>
 </div>
 
-### 📫 Connect With Me
+## 📫 Connect With Me
  
 <div>
  <ul>
-  <li>LinkedIn:(https://linkedin.com/in/sara-hany-9ba849320)</li>
-  <li>Email:(mailto:sara6hany@gmail.com)</li>
+  <li>**LinkedIn**:(https://linkedin.com/in/sara-hany-9ba849320)</li>
+  <li>**Email**:(mailto:sara6hany@gmail.com)</li>
  </ul>
 </div> 
 
