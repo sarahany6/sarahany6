@@ -87,10 +87,10 @@
 
 ### 📫 Connect With Me
  
-<div align="center">
+<div>
  <ul>
-  <li>[LinkedIn](https://linkedin.com/in/sara-hany-9ba849320)</li>
-  <li>[Email](mailto:sara6hany@gmail.com)</li>
+  <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-hany-9ba849320</li>
+  <li>[Email(mailto:sara6hany@gmail.com)</li>
  </ul>
 </div> 
 
